@@ -56,6 +56,8 @@ Your first task is to visualize an earthquake dataset. Complete the following st
 
    * Your visualization should look something like the preceding map.
    
+   * Screenshot of created Visualization 
+  
    ![4-JSON](Images/Screenshot_Of_Code.png)
 
 
